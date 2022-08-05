@@ -1,0 +1,16 @@
+{
+  "name": "rc522",
+  "version": "1.0.0",
+  "description": "Interface with module RC522 via SPI",
+  "keywords": "rfid, rc522",
+  "authors":
+  [
+    {
+      "name": "Dat",
+      "email": "dat.nt.2803@gmail.com"
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "espressif8266",
+  "board": "any boards"
+}

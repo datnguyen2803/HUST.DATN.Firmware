@@ -1,0 +1,14 @@
+{
+    "name": "stepper_28byj48",
+    "version": "1.0.0",
+    "description": "Library for unipolar stepper 28BYJ-48",
+    "keywords": "stepper, unipolar, 28byj, 28byj48",
+    "authors":
+    {
+      "name": "Nguyen Tien \"Chaos\" Dat",
+      "email": "dat.nt.2803@gmail.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "espressif8266",
+    "board": "any boards"
+  }

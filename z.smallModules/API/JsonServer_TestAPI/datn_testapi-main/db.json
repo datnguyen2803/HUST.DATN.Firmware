@@ -1,0 +1,27 @@
+{
+  "carIn": [
+    {
+      "id": 1,
+      "plate": "68228"
+    },
+    {
+      "id": 2,
+      "plate": "19999"
+    },
+    {
+      "id": 3,
+      "plate": "12345"
+    }
+  ],
+  "carOut": [
+    {
+      "id": 1,
+      "plate": "78924",
+      "note": "none"
+    }
+  ],
+  "admin": {
+    "name": "datnt",
+    "age": 23
+  }
+}

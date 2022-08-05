@@ -1,0 +1,9 @@
+{
+    "name": "custom_gpio",
+    "version": "1.0.0",
+    "description": "Library supports GPIO Read, Write reliably",
+    "keywords": "gpio, read, write",
+    "frameworks": "arduino",
+    "platforms": "espressif8266",
+    "board": "any boards"
+  }

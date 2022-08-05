@@ -1,0 +1,9 @@
+{
+    "name": "parking_slot",
+    "version": "1.0.0",
+    "description": "Custom library for DATN 2022, including using radar to detect empty slot and put to DB",
+    "keywords": "parking, slot, DATN, radar",
+    "frameworks": "arduino",
+    "platforms": "espressif8266",
+    "board": "any boards"
+  }

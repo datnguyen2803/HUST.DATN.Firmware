@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "rc522.h": "c",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "cstring": "cpp",
+        "typeinfo": "cpp"
+    }
+}

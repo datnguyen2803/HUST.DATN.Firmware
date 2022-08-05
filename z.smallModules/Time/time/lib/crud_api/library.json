@@ -1,0 +1,9 @@
+{
+    "name": "crud_api",
+    "version": "1.0.0",
+    "description": "Library supports CRUD API with methods: GET, POST, PUT, DELETE",
+    "keywords": "crud, api",
+    "frameworks": "arduino",
+    "platforms": "espressif8266",
+    "board": "any boards"
+  }

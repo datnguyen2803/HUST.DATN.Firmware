@@ -1,0 +1,9 @@
+{
+    "name": "time",
+    "version": "1.0.0",
+    "description": "Library support get the time from API of worldtimeapi.org",
+    "keywords": "time, api, date",
+    "frameworks": "arduino",
+    "platforms": "espressif8266",
+    "board": "any boards"
+  }
